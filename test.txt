@@ -1,5 +1,4 @@
 alpha 
 gama
 sigma
-delta
-theta
+
